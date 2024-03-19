@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Smart ToDo</string>
+
+    <string name="default_web_client_id">732560601904-mmbt5obb7rq344rdkhcpv0hc0b2d8npo.apps.googleusercontent.com</string>
+    <string name="sign_in">Google Sign In</string>
+</resources>
